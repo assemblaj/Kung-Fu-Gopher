@@ -1,6 +1,7 @@
-<p align="center">  Kung Fu Gopher </p> 
+# <p align="center">  Kung Fu Gopher </p> 
 ---
-![4 Images of Kung Fu Gopher laid out horizontally](https://i.ibb.co/wS001rJ/Screenshot-2022-12-13-at-22-22-41-1.png)
+
+  ![4 Images of Kung Fu Gopher laid out horizontally](https://i.ibb.co/wS001rJ/Screenshot-2022-12-13-at-22-22-41-1.png)
 
 IKEMEN-Go's mascot, an amalgamation of the Go Gopher and MUGEN's Kung Fu Man. 
 
